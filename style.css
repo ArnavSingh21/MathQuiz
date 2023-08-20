@@ -1,0 +1,12 @@
+body{
+    background-image: url("bg.jpg");
+}
+#mp4{
+    padding:50px ;
+}
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
